@@ -6,7 +6,7 @@ from aiogram.utils import deep_linking
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="5662769440:AAESXoXucf_dkqIS4GPCi4Q6wmE6d2wbl9w")
+bot = Bot(token="#")
 dp = Dispatcher(bot)
 
 
